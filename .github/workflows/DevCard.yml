@@ -1,5 +1,3 @@
-name: DevCard
-
 on:
   workflow_dispatch:
   push:
@@ -15,4 +13,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ secrets.5951b717e35141679075fe2225092467 }}
+          devcard_id: ${{ secrets.DEVCARD_ID }}
