@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**anil1226/anil1226** is a ✨ developer ✨ and really into Geospatial data visualization
+**anil1226/anil1226** is a ✨ azure devops engineer ✨
 
 <!--<a href="https://app.daily.dev/anil1226"><img src="https://api.daily.dev/devcards/5951b717e35141679075fe2225092467.png?r=637" width="400" alt="Anil Karuturi's Dev Card"/></a>
 
